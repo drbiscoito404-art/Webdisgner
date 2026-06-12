@@ -30,7 +30,7 @@ body {
         padding:20px;
         background:rgba(255,255,2   55,.05);
         backdrop-filter:blur(10px);
-        flexwarp: warp;
+        flex-wrap: wrap;
         }
         nav a{
         color:white;
